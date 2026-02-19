@@ -3,8 +3,9 @@ name: tokenization-debugger
 description: Help debug LLM behaviors by analyzing tokenization - the "atoms" of language models that explain many "weird" behaviors.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5200
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - tokenization-debugger
 - writing
